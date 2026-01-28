@@ -440,7 +440,7 @@ Render - Deployment platform
 📧 Contact
 Author: Er Arib Khan
 GitHub: @Er-Arib-Khan
-Email: [Your Email]
+Email: [khanarib075@gmail.com]
 Project Link: https://github.com/Er-Arib-Khan/-House-price-prediction-ML-model
 
 🎯 Quick Start
